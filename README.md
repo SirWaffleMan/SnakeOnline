@@ -1,2 +1,4 @@
 # SnakeOnline
-A simple java based game.
+A simple Snake game with multiplayer.
+
+![alt text](img/playMenu.png)
